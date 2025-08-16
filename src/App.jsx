@@ -117,7 +117,7 @@ const App = () => {
             <h1>{searchTerm}</h1>
             <section className="wrapper">
             {/*<div >*/}
-                <h1  className="text-white">Built by <span onClick={handleClick} className="text-gradient">Sriram Nagandla</span> & <span onClick={handleClick2} className="text-gradient">Jagan Sunkavalli</span></h1>
+                <h1  className="text-white">Built by <span onClick={handleClick} className="text-gradient">Sriram Nagandla</span></h1>
                 {/*</div>*/}
 
             </section>
